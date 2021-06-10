@@ -25,8 +25,10 @@ The Keeper App is a easy way to take notes.
 # Getting Started
 create mp-app
 > npm init react-app my-app
+
 cd over to my-app
 > cd my-app
+
 start app in your server
 > npm start
 
